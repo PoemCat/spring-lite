@@ -1,0 +1,8 @@
+{
+  "name": "spring-lite",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:PoemCat/spring-lite.git",
+  "author": "HolyCat <wpf19970716@gmail.com>",
+  "license": "MIT"
+}
