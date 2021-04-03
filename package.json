@@ -6,10 +6,14 @@
   "author": "HolyCat <wpf19970716@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "reflect-metadata": "^0.1.13"
+    "node-fetch": "^2.6.1",
+    "reflect-metadata": "^0.1.13",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "@types/node": "^14.14.33",
+    "@types/node-fetch": "^2.5.9",
+    "ts-node": "^9.1.1",
     "typescript": "^4.2.3"
   }
 }
